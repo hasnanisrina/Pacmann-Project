@@ -30,12 +30,16 @@ Membuat sistem kasir yang self-service di supermarket sehingga customer bisa lan
 ## Test Case
 1. Menambahkan item baru
 ![image](https://user-images.githubusercontent.com/103159451/217580123-3780fb75-c6ba-4ac4-b9f1-73f69db837fb.png)
+
 2. Delete item
 ![image](https://user-images.githubusercontent.com/103159451/217580240-a353bf69-788d-47bc-974d-52b852e2f4ef.png)
+
 3. Reset item
 ![image](https://user-images.githubusercontent.com/103159451/217580314-6640495f-eb6e-43eb-a9c8-929708e5e100.png)
+
 4. Total price
 ![image](https://user-images.githubusercontent.com/103159451/217580397-55b9801f-864b-459e-a6f3-0683e659c51a.png)
 
+
 ## Kesimpulan
-Sistem kasir self-service memiliki fungsi utama untuk membantu customer agar dapat memasukkan order produk secara mandiri.
+Sistem kasir self-service memiliki fungsi utama untuk membantu customer agar dapat memasukkan order produk secara mandiri. Apabila di masa depan ada SDM dan waktu yang cukup, sistem ini dapat disimpan di databsae dan bisa dianalisa data-datanya untuk membuat strategi supermarket.
