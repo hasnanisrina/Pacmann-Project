@@ -14,6 +14,8 @@ Membuat sistem kasir yang self-service di supermarket sehingga customer bisa lan
 
 ## Flowchart
 
+![image](https://user-images.githubusercontent.com/103159451/217602687-087cbad6-78c5-4203-9150-719897d981ea.png)
+
 
 ## Atrribute and Function
 1. dict_txn : Atribut yang berupa dictionary yang berfungsi untuk menyimpan data transaksi yang dilakukan oleh customer
